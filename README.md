@@ -34,3 +34,13 @@ After compiling the program, run it with:
 ```bash
 ./main
 ```
+
+## Project Structure
+
+```text
+student-portal/
+├── .gitignore
+├── README.md
+└── main.cpp
+```
+
