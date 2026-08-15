@@ -13,4 +13,6 @@ void displayProfile(const StudentProfile& profile);
 
 void updateDepartment(StudentProfile& profile, const std::string& department);
 
+bool validateProfile(const StudentProfile& profile);
+
 #endif
