@@ -11,4 +11,6 @@ struct StudentProfile {
 
 void displayProfile(const StudentProfile& profile);
 
+void updateDepartment(StudentProfile& profile, const std::string& department);
+
 #endif
