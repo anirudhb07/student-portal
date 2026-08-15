@@ -27,3 +27,10 @@ Compile the C++ program using:
 g++ main.cpp -o main
 ```
 
+## Running the Program
+
+After compiling the program, run it with:
+
+```bash
+./main
+```
