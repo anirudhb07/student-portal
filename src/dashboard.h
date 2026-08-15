@@ -11,4 +11,6 @@ struct DashboardData {
 
 void displayDashboard(const DashboardData& data);
 
+double calculateCompletionRate(int completed, int total);
+
 #endif
