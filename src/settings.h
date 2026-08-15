@@ -11,4 +11,6 @@ struct StudentSettings {
 
 void displaySettings(const StudentSettings& settings);
 
+void updateLanguage(StudentSettings& settings, const std::string& language);
+
 #endif
