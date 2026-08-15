@@ -1,0 +1,13 @@
+*.o
+*.out
+*.exe
+main
+build/
+
+*.sublime-workspace
+*.sublime-project
+
+.vscode/
+
+.DS_Store
+Thumbs.db
