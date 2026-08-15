@@ -46,4 +46,4 @@ student-portal/
 
 ## Student Portal Features
 
-The portal provides login, profile, dashboard, and settings functionality.
+The portal provides secure login, profile, dashboard, and settings functionality.
