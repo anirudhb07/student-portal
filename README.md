@@ -17,3 +17,13 @@ Clone the repository :
 ```bash
 git clone https://github.com/anirudhb07/student-portal.git
 cd student-portal
+```
+
+## Compilation
+
+Compile the C++ program using:
+
+```bash
+g++ main.cpp -o main
+```
+
