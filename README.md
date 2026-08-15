@@ -44,3 +44,6 @@ student-portal/
 └── main.cpp
 ```
 
+## Student Portal Features
+
+The portal provides login, profile, dashboard, and settings functionality.
